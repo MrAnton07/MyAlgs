@@ -1,6 +1,5 @@
 #pragma once
 
-#include <bitset>
 #include <utility>
 
 namespace num_alg::number{
